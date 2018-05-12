@@ -1,0 +1,25 @@
+_repo: The-Nation-Behind-Prison-Bars_35221
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herr, George L. (George Lewis)
+    gutenberg_agent_id: '37539'
+    url: http://www.gutenberg.org/2009/agents/37539
+description: ''
+gutenberg_issued: '2011-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Evangelists'
+- !lcsh 'Church work with criminals'
+title: The Nation Behind Prison Bars
+url: http://www.gutenberg.org/ebooks/35221
